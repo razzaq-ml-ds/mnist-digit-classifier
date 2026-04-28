@@ -1,1 +1,5 @@
 /.venv
+mnist_model.keras
+__pycache__/
+*.pyc
+*.pyo
